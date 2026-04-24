@@ -122,4 +122,5 @@ This project is created exclusively for the ACC102 Mini Assignment. All content 
 AI tools were used for the following purposes:
 1. Code debuugging and formatting assistance
 2. README structure and Markdown syntax guidance
+
 Full AI disclosure is included in the reflection report as required by the assignment rubric.
