@@ -1,34 +1,39 @@
 # ACC102 Mini Assignment - Track 2: GitHub Data Analysis Project
 ## Financial Ratio Comparison Analysis of Listed Companies
 
-**Analyst**: [Ruihan.Sun]
+**Analyst**: Ruihan.Sun
 **Course**: ACC102
 **Date**: April 24, 2026
-**Data Source**: Simulated financial data(for academic use only)
+**Data Source**: Simulated financial data (for academic use only)
 
 ---
 
 ### 1. Projecct Background and objectives
-This project applies Python-based data analysis to compare the financial performance of three major internet/tech companies: Alibaba, Tencent, and Pinduoduo. The core objectives are: 
+This project applies Python-based data analysis to compare the financial performance of three major internet/tech companies: Alibaba, Tencent, and Pinduoduo.
+
+**Target User**: Retail investors considering investment in Chinese technology stocks.
+
+**Core Objectives**
 1. Evaluate **profitability** through gross margin, net margin, and ROE.
-2. Assess **Solvency** via debt-to-asset raatio and current ratio.
+2. Assess **Solvency** via debt-to-asset ratio and current ratio.
 3. Present findings through clear data visualization and draw structured conclusions.
 
 ---
 
 ### 2. Repository Structure
-├── main.ipynb          # Full analysis code and results
-├── README.md           # Project documentation (this file)
-└── requirements.txt    # Python dependencies
+- `main.ipynb` - Full analysis code and results
+- `README.md` - Project documentation (this file)
+- `requirements.txt` - Python dependencies
 
 ---
 
 ### 3. Environment and Dependencies
--Python 3.x
--pandas
--matplotlib
+- Python 3.x
+- pandas
+- matplotlib
 
 Install dependencies with:
+
 ```bash
 pip install pandas matplotlib
 ```
@@ -96,5 +101,25 @@ The analysis uses simulated financial ratio data covering the following metrics:
 
 ---
 
-### 9. Disclaimer
+### 9. Demo video
+[Watch the demo video on Mediasite] 
+
+The demo video demonstrates:
+- Problem definition and target user
+- Dataset overview
+- Running the Python analysis in `main.ipynb`
+- Key visualizations and findings
+- Repository structure
+
+---
+
+### 10. Disclaimer
 This project is created exclusively for the ACC102 Mini Assignment. All content is for educational purposes only and should not be used as financial advice for investment or business decisions.
+
+---
+
+### 11. AI Disclosure
+AI tools were used for the following purposes:
+1. Code debuugging and formatting assistance
+2. README structure and Markdown syntax guidance
+Full AI disclosure is included in the reflection report as required by the assignment rubric.
