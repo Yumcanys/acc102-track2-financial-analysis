@@ -102,7 +102,7 @@ The analysis uses simulated financial ratio data covering the following metrics:
 ---
 
 ### 9. Demo video
-[Watch the demo video on Mediasite] 
+[Watch the demo video on Mediasite] (https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/a1c3716bad974651b12c4c5c831536d61d)
 
 The demo video demonstrates:
 - Problem definition and target user
