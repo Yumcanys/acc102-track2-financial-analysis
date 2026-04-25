@@ -47,7 +47,7 @@ This project helps finance students, investors, and business analysts quickly co
 
 ## 7. Project Links
 - GitHub Repository: (https://github.com/Yumcanys/acc102-track2-financial-analysis/edit/main/README.md)
-- Demo Video (Mediasite)
+- Demo Video (Mediasite[):(https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/bdd28dc6e5984e68b6145d9552f376011d)
 
 ---
 
