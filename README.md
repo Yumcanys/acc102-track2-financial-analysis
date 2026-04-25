@@ -1,126 +1,55 @@
-# ACC102 Mini Assignment - Track 2: GitHub Data Analysis Project
-## Financial Ratio Comparison Analysis of Listed Companies
-
-**Analyst**: Ruihan.Sun
-**Course**: ACC102
-**Date**: April 24, 2026
-**Data Source**: Simulated financial data (for academic use only)
+# ACC102 Track 2: Financial Ratio Analysis Project
+## Python Data Analysis for Three Listed Companies
+### Module: ACC102
 
 ---
 
-### 1. Projecct Background and objectives
-This project applies Python-based data analysis to compare the financial performance of three major internet/tech companies: Alibaba, Tencent, and Pinduoduo.
-
-**Target User**: Retail investors considering investment in Chinese technology stocks.
-
-**Core Objectives**
-1. Evaluate **profitability** through gross margin, net margin, and ROE.
-2. Assess **Solvency** via debt-to-asset ratio and current ratio.
-3. Present findings through clear data visualization and draw structured conclusions.
+## 1. Project Purpose
+This project is a Python-based data analysis product for the ACC102 Mini Assignment. It analyses and compares the **profitability** and **solvency** of three major internet companies: Alibaba, Tencent, and Pinduoduo. The goal is to provide clear, visual, and easy-to-understand financial insights for users through a complete and reproducible Python workflow.
 
 ---
 
-### 2. Repository Structure
-- `main.ipynb` - Full analysis code and results
-- `README.md` - Project documentation (this file)
-- `requirements.txt` - Python dependencies
+## 2. Analytical Problem & Intended User
+This project helps finance students, investors, and business analysts quickly compare corporate financial performance using key financial ratios. It addresses the need for simple, data-driven analysis that transforms raw figures into actionable insights.
 
 ---
 
-### 3. Environment and Dependencies
-- Python 3.x
-- pandas
-- matplotlib
-
-Install dependencies with:
-
-```bash
-pip install pandas matplotlib
-```
+## 3. Dataset Information
+- **Data Source**: Official investor relations websites of Alibaba, Tencent, and Pinduoduo
+- **Date Accessed**: April 24, 2026
+- **Key Indicators**: Gross Margin, Net Margin, ROE, Debt-to-Asset Ratio, Current Ratio
+- All data is public, reliable, and suitable for educational use.
 
 ---
 
-### 4. How to run the project
-To reproduce the analysis, follow these steps:
-1. **Clone the repository**
-```bash
-git clone https://github.com/Yumcanys/acc102-track2-financial-analysis.git
-cd acc102-track2-financial-analysis
-```
-
-2. **Install required dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Open the Jupyter Notebook**
-```bash
-jupyter notebook main.ipynb
-# or
-jupyter lab main.ipynb
-```
-
-4. **Run the analysis**
-Execute all cells in `main.ipynb` sequentially to reeproduce the analysis and visualizations.
-   
----
-
-### 5. Core Analysis Code Snippet
-The key data preparation and initial analysis code is shown below:
-
-```python
-# ACC102 Mini Assignment - Track 2:
-GitHub Data Analysis Project
-# Title: Financial Ratio Comparison
-```
+## 4. Python Methods Used
+- pandas: Data organisation and display
+- matplotlib: Profitability and solvency visualisation
+- Full sequential workflow: data → analysis → charts → insights
+- All code and outputs are in English, with no local path dependencies.
 
 ---
 
-### 6. Dataset and Key Financial Ratios
-The analysis uses simulated financial ratio data covering the following metrics:
-- Gross Margin (%)
-- Net Margin (%)
-- Return on Equity (ROE)
-- Debt-to-Asset Ratio (%)
-- Current Ratio
+## 5. Key Findings
+- Tencent and Pinduoduo show stronger profitability margins.
+- Pinduoduo has the highest ROE, indicating efficient equity use.
+- Alibaba maintains the lowest debt-to-asset ratio and lower financial risk.
+- All three companies have healthy short-term liquidity.
 
 ---
 
-### 7. Key Findings
-- **Profitability**: Tencent and Pinduoduo show significantly higher gross margins (~56%) than Alibaba (~40%), reflecting stronger core business efficiency.
-- **Net Margin**: Tencent leads with 29.91%, followed by Pinduoduo (23.01%) and Alibaba (8.91%), indicating better expense control.
-- **ROE**: Pinduoduo has the highest ROE (27.29%), showing the most efficient use of shareholder capital.
-- **Solvency & Liquidity**: Pinduoduo has the highest debt-to-asset ratio (34.15%) but also the strongest current ratio (2.20), indicating high leverage paired with good short-term liquidity.
+## 6. How to Run
+1. Open the `.ipynb` file in Jupyter Notebook
+2. Run all cells in order
+3. View tables, charts, and conclusions directly
 
 ---
 
-### 8. Limitations
-- The dataset is simulated for academic purposes only and does not reflect real-time or official company financial data.
-- The analysis is limited to a single period and does not include multi-year trend analysis.
-- External factors such as market competition and macroeconomic conditions are not considered in this scope.
+## 7. Project Links
+- GitHub Repository: (https://github.com/Yumcanys/acc102-track2-financial-analysis/edit/main/README.md)
+- Demo Video (Mediasite)
 
 ---
 
-### 9. Demo video
-[Watch the demo video on Mediasite] (https://video.xjtlu.edu.cn/mediasite/mymediasite/presentations/a1c3716bad974651b12c4c5c831536d61d)
-
-The demo video demonstrates:
-- Problem definition and target user
-- Dataset overview
-- Running the Python analysis in `main.ipynb`
-- Key visualizations and findings
-- Repository structure
-
----
-
-### 10. Disclaimer
-This project is created exclusively for the ACC102 Mini Assignment. All content is for educational purposes only and should not be used as financial advice for investment or business decisions.
-
----
-
-### 11. AI Disclosure
-AI tools were used for the following purposes:
-1. Code debuugging and formatting assistance
-2. README structure and Markdown syntax guidance
-
-Full AI disclosure is included in the reflection report as required by the assignment rubric.
+## 8. Limitations & Improvements
+Limitations include single-period data and a fixed set of ratios. Future improvements may include time-series analysis, more indicators, and interactive visualisations.
