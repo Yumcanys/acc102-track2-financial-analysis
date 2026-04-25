@@ -39,7 +39,7 @@ This project helps finance students, investors, and business analysts quickly co
 ---
 
 ## 6. How to Run
-1. Open the `.ipynb` file in Jupyter Notebook
+1. Open the `main-3.ipynb` file in Jupyter Notebook
 2. Run all cells in order
 3. View tables, charts, and conclusions directly
 
